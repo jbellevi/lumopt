@@ -1,0 +1,5 @@
+.idea/
+examples/opts_*
+lumopt/*/__pycache__/
+lumopt/__pycache__/
+
